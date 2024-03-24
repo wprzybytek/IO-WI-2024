@@ -5,3 +5,5 @@ Inteligencja Obliczeniowa, AGH Wydział Informatyki 2024
 Optymalizacja ruchu pojazdów w mieście z wykorzystaniem symulatora SUMO
 
 ### [Etap 1](./stages/1.md)
+
+### [Etap 2](./stages/2.md)

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sumo-app"
+version = "0.1.0"
+description = ""
+authors = ["Wojciech Przybytek <wprzybytek@student.agh.edu.pl>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+notebook = "^7.1.2"
+traci = "^1.19.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
