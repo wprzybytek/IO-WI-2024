@@ -8,6 +8,8 @@ authors = ["Wojciech Przybytek <wprzybytek@student.agh.edu.pl>"]
 python = "^3.12"
 notebook = "^7.1.2"
 traci = "^1.19.0"
+libsumo = "^1.19.0"
+pymoo = "^0.6.1.1"
 
 
 [build-system]
