@@ -9,3 +9,5 @@ Optymalizacja ruchu pojazdów w mieście z wykorzystaniem symulatora SUMO
 ### [Etap 2](./stages/2.md)
 
 ### [Etap 3](./stages/3.md)
+
+### [Etap 4](./stages/4.md)
